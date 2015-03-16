@@ -29,4 +29,6 @@ class Quadra_Atos_Block_Adminhtml_System_Config_Form_Field_Ips extends Mage_Admi
         parent::__construct();
     }
 
+    
+    
 }
