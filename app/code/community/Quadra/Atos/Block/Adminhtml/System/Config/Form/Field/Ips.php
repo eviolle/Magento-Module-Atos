@@ -27,6 +27,8 @@ class Quadra_Atos_Block_Adminhtml_System_Config_Form_Field_Ips extends Mage_Admi
         $this->_addAfter = false;
         $this->_addButtonLabel = Mage::helper('adminhtml')->__('Add new IP address');
         parent::__construct();
+        
+        
     }
 
     
